@@ -3,7 +3,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=cihuydrop&fontSize=80&animation=fadeIn)
 
 ## 🧑‍💻 About Me
-- 🌱 Learning and growing in Web Development
+- 🌱 Learning and growing in automation Development
 - 💡 Love to explore new technologies
 - 🎯 Goal-oriented developer
 
