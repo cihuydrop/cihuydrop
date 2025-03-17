@@ -1,40 +1,35 @@
-<h1 align="center">👋 Hi, I'm cihuydrop</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+# 👋 Welcome to cihuydrop's Profile!
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cihuydrop&label=Profile%20views&color=0e75b6&style=flat" alt="cihuydrop" />
-</p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=cihuydrop&fontSize=80&animation=fadeIn)
 
-### 🚀 About Me
-- 🌱 I'm currently learning **Web Development**
-- 💬 Ask me about **JavaScript, PHP, Python**
-- 📫 How to reach me: **cihuydrop@gmail.com**
+## 🧑‍💻 About Me
+- 🌱 Learning and growing in Web Development
+- 💡 Love to explore new technologies
+- 🎯 Goal-oriented developer
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cihuydrop&show_icons=true&locale=en" alt="cihuydrop" />
-</p>
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cihuydrop" alt="cihuydrop" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cihuydrop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cihuydrop&layout=compact&langs_count=8&theme=algolia"/>
+</div>
 
-### 🔝 Most Used Languages
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cihuydrop&show_icons=true&locale=en&layout=compact" alt="cihuydrop" />
-</p>
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=cihuydrop&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/cihuydrop" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cihuydrop" height="30" width="40" />
-  </a>
-</p>
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cihuydrop)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cihuydrop)
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=cihuydrop&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
