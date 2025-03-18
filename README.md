@@ -21,9 +21,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cihuydrop&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=cihuydrop)
-
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cihuydrop)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
